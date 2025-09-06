@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Backend Developer | Code & Learn</h3>
 
@@ -28,4 +29,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Adityasingh77777" alt="AdityaSingh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adityasingh77777" alt="Aditya" /></a> </p>
