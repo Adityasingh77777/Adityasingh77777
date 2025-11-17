@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **singhadityakumar2022@gmail.com**
 
-- 📄 Explore my professional journey in my [resume](https://drive.google.com/file/d/1fyeaNiI_QSg04Oj5iJuNaEWM2JmAv-ac/view)
+- 📄 Explore my professional journey in my [resume](https://drive.google.com/file/d/1ljkk-sp-Ar9Zz1vmtuo8aW76Gm8FV1-3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
