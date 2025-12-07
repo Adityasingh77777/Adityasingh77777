@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Backend Developer | Code & Learn</h3>
+<h3 align="center">Full Stack Developer | Code & Learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityasingh77777&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya" /> </p>
 
